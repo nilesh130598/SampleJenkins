@@ -1,4 +1,4 @@
-package com.example.demo.demo;
+package com.example;
 
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
