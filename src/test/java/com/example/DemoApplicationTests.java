@@ -7,13 +7,13 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 import static org.junit.Assert.assertEquals;
 @SpringBootTest
-class DemoApplicationTests {
-	 // public static	Logger logger = LoggerFactory.getLogger(DemoApplicationTests.class);
+public class DemoApplicationTests {
+	  public static	Logger logger = LoggerFactory.getLogger(DemoApplicationTests.class);
 	  
 
 	@org.junit.Test
 	public void test(){
-	//	logger.info("Application executed....");
+		logger.info("Application executed....");
 		assertEquals(true, true);
 	}
 
