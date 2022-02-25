@@ -21,6 +21,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		logger.info("Application executed....");
 		logger.info("Application executed second time....");
+		logger.info("Application executed second time....");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 	
