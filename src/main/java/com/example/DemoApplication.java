@@ -18,7 +18,7 @@ public class DemoApplication {
 	public void init(){
 		logger.info("Application Started....");
 	}
-	public static void main(String[] args) {
+	public   main(String[] args) {
 		logger.info("Application executed....");
 		logger.info("Application executed second time....");
 		logger.info("Application executed second time....");
